@@ -22,6 +22,6 @@
 ## 🚀 Быстрый запуск
 
 1. Скачайте готовый бинарный файл `elochka` (или `elochka.exe` для Windows) из раздела [Releases](https://github.com/nikaotee/ANSI-Christams-tree/releases).
-2. **Для macOS и Linux:** сделайте файл исполняемым в терминале:
+2. ** Для macOS и Linux:** сделайте файл исполняемым в терминале: **
    ```bash
    chmod +x elochka
